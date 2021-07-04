@@ -1,0 +1,455 @@
+afaux1_t1: Apostle
+cfaux1_t1: Minokawa
+gfaux1_t1: Ninazu
+mfaux1_t1: Lif
+ab1_t1: Apocalypse
+ab1_t2: Paladin
+ab2_t1: Armageddon
+ab2_t2: Redeemer
+ab3_t1: Abaddon
+abc1_t1: Prophecy
+abc1_t2a: Damnation
+abc1_t2b: Prophecy T2b
+abc2_t1: Harbinger
+abc2_t2: Absolution
+abc3_t1: Oracle
+ac1_t1: Arbitrator
+ac1_t2a: Curse
+ac1_t2b: Pilgrim
+ac2_ix: Vangel
+ac2_t1: Maller
+ac2_t2a: Sacrilege
+ac2_t2b: Devoter
+ac3_t1: Augoror
+ac3_t2: Guardian
+ac4_t1: Omen
+ac4_t2: Zealot
+ac6_t1: Ashimmu
+aca1_t1: Aeon
+aca2_t1: Archon
+ade1_t1: Coercer
+ade1_t2: Heretic
+ade2_t1: Dragoon
+ade2_t2: Pontifex
+ade3_t3: Confessor
+adh1_t1: Praetor I
+adh1_t2: Praetor II
+adl1_t1: Acolyte I
+adl1_t2: Acolyte II
+adm1_t1: Infiltrator I
+adm1_t2: Infiltrator II
+adn1_t1: Revelation
+af1_t1: Impairor
+af2_t1: Crucifier
+af2_t2: Sentinel
+af3_ix: Malice
+af3_t1: Punisher
+af3_t2a: Vengeance
+af3_t2b: Retribution
+af4_t1: Executioner
+af4_t2a: Malediction
+af4_t2b: Crusader
+af5_t1: Inquisitor
+af5_t2: Purifier
+af5_t2b: Deacon
+af6_t1: Tormentor
+af7_i: Magnate Gold Silver
+af7_t1: Magnate
+af7_t2: Anathema
+af8_t1: Cruor
+af9_t1: Slicer
+afb1_t1: Malleus
+afi1_t1: Templar
+afr1_t1: Providence
+afr1_t2: Ark
+ai1_t1: Bestower
+ai1_t2: Impel
+ai2_t1: Sigil
+ai2_t2: Prorator
+angb1_t1: Machariel
+angbc1_t1: Cynabal
+angc1_t1: Ixion
+angc1_xi: Moracha
+angf1_t1: Dramiel
+angf1_xi: Chremoas
+angf2_t1: Daredevil
+angf3_t1: Fury
+angf4_t1: Swordspine
+angf5_t1: Medusa
+angf6_t1: Echo
+angf7_t1: Lynx
+as1: Amarr Station Military
+as1_t1: Amarr Shuttle
+as10: Blood Raider Military Outpost
+as2: Amarr Station Hub
+as3: Amarr Research Station
+as4: Amarr Trade Post
+as5: Amarr Industrial Station
+as6: Amarr Class A Starport
+as7: Amarr Standard Station
+as8: Amarr Citadel
+as9: Amarr Mining Station
+asd1_t1: Curator I
+asd1_t2: Curator II
+at1_t1: Avatar
+beacon: Beacon
+biocs: biocs
+cap1_t1: Capsule
+cb1_t1: Raven
+cb1_t2: Golem
+cb2_t1: Scorpion
+cb2_t2: Widow
+cb2_xii: Rattlesnake Victory Edition
+cb3_t1: Rokh
+cbc1_t1: Ferox
+cbc1_t2a: Ferox T2a
+cbc1_t2b: Vulture
+cbc2_t1: Drake
+cbc2_t2: Nighthawk
+cbc3_t1: Naga
+cc1_t1: Osprey
+cc1_t2: Basilisk
+cc1_x: Etana
+cc2_t1: Moa
+cc2_t2a: Onyx
+cc2_t2b: Eagle
+cc2_xii: Chameleon
+cc3_t1: Caracal
+cc3_t2: Cerberus
+cc4_t1: Blackbird
+cc4_t2a: Falcon
+cc4_t2b: Rook
+cca1_t1: Chimera
+cca2_t1: Wyvern
+cde1_t1: Cormorant
+cde1_t2: Flycatcher
+cde2_t1: Corax
+cde2_t2: Stork
+cde3_t3: Jackdaw
+cdh1_t1: Wasp I
+cdh1_t2: Wasp II
+cdl1_t1: Hornet I
+cdl1_t2: Hornet II
+cdm1_t1: Vespa I
+cdm1_t2: Vespa II
+cdn1_t1: Phoenix
+cf1_t1: Bantam
+cf1_t2: Kirin
+cf2_t1: Condor
+cf2_t2a: Crow
+cf2_t2b: Raptor
+cf2_xii: Whiptail
+cf3_t1: Heron
+cf3_t2: Buzzard
+cf4_t1: Griffin
+cf4_t2: Kitsune
+cf5_t1: Ibis
+cf6_t1: Kestrel
+cf6_t2: Manticore
+cf7_t1: Merlin
+cf7_t2a: Hawk
+cf7_t2b: Harpy
+cf7_x: Cambion
+cf8_t1: Hookbill
+cfb1_t1: Mantis
+cfi1_t1: Dragonfly
+cfr1_t1: Charon
+cfr1_t2: Rhea
+ci1_t1: Badger
+ci2_t1: Tayra
+ci2_t2: Crane
+ci3_t1: Badger III
+ci3_t2: Bustard
+cl1_t1: cl1_t1
+cm1_t1: cm1_t1
+cm1_t1_construction: cm1_t1_construction
+conb1_t1: Concord Battleship
+conc1_t1: Concord Cruiser
+conf1_t1: Concord Frigate
+conf2_t1: Polaris Frigate
+conf3_t1: Echelon
+conf4_t1: Cockroach
+conf5_t1: Zephyr
+cs1: Caldari Administrative Station
+cs1_construction: Caldari Prime Station (Under Construction)
+cs1_small: Guristas War Installation
+cs1_t1: Caldari Shuttle
+cs2: Caldari Research Station
+cs3: Caldari Trading Station
+cs4: Caldari Logistics Station
+cs5: Caldari Station Hub
+cs7: Caldari Military Station
+cs8: Caldari Food Processing Plant Station
+csd1_t1: Warden I
+csd1_t2: Warden II
+ct1_t1: Leviathan
+cl1_t1: Fortizar
+cl1_t1_invul_state: Fortizar - Invulnerable
+cl1_t1_sieged_state: Fortizar - Sieged
+cl1_t1_vul_state: Fortizar - Vulnerable
+cm1_t1: Astrahus
+cm1_t1_construction: Astrahus - In construction
+cm1_t1_invul_state: Astrahus - Invulnerable
+cm1_t1_sieged_state: Astrahus - Sieged
+cm1_t1_vul_state: Astrahus - Vulnerable
+cxl1_t1: Keepstar
+cxl1_t1_construction: Keepstar - In construction
+cxl1_t1_invul_state: Keepstar - Invulnerable
+cxl1_t1_sieged_state: Keepstar - Sieged
+cxl1_t1_vul_state: Keepstar - Vulnerable
+gb1_t1: Dominix
+gb1_t2: Sin
+gb2_t1: Megathron
+gb2_t2: Kronos
+gb3_t1: Hyperion
+gbc1_t1: Brutix
+gbc1_t2a: Astarte
+gbc1_t2b: Brutix T2b
+gbc2_t1: Myrmidon
+gbc2_t2: Eosci1
+gbc3_t1: Talos
+gc1_t1: Celestis
+gc1_t2a: Arazu
+gc1_t2b: Lachesis
+gc2_t1: Exequror
+gc2_t2: Oneiros
+gc3_t1: Vexor
+gc3_t2: Ishtar
+gc4_t1: Thorax
+gc4_t2a: Deimos
+gc4_t2b: Phobos
+gc4_viii: Adrestia
+gca1_t1: Nyx
+gca2_t1: Thanatos
+gde1_t1: Catalyst
+gde1_t2: Eris
+gde2_t1: Algos
+gde2_t2: Magus
+gde3_t3: Hecate
+gdh1_t1: Ogre I
+gdh1_t2: Ogre II
+gdl1_t1: Hobgoblin I
+gdl1_t2: Hobgoblin II
+gdm1_t1: Hammerhead I
+gdm1_t2: Hammerhead II
+gdn1_t1: Moros
+gf1_t1: Velator
+gf2_t1: Navitas
+gf2_t2: Thalia
+gf3_t1: Tristan
+gf3_t2: Nemesis
+gf4_t1: Incursus
+gf4_t2a: Ishkur
+gf4_t2b: Enyo
+gf4_viii: Utu
+gf5_t1: Imicus
+gf5_t2: Helios
+gf6_t1: Atron
+gf6_t2a: Ares
+gf6_t2b: Taranis
+gf7_t1: Maulus
+gf7_t2: Keres
+gf8_t1: Comet
+gfb1_t1: Cyclops
+gfi1_t1: Firbolg
+gfr1_t1: Obelisk
+gfr1_t2: Anshar
+gi1_t1: Nereus
+gi2_t1: Kryos
+gi2_t2: Occator
+gi3_t1: Epithal
+gi4_t1: Miasmos
+gi4_t2: Viator
+gi5_t1: Iteron Mark V
+gs1: Gallente Military Station
+gs1_t1: Gallente Shuttle
+gs2: Gallente Station Hub 
+gs3: Gallente Research Station
+gs4: Gallente Trading Hub
+gs4_small: Osnirdottir Memorial
+gs5: Gallente Industrial Station
+gs6: Gallente Administrative Station
+gs7: Gallente Logistics Station
+gs8: Gallente Mining Station
+gsd1_t1: Garde I
+gsd1_t2: Garde II
+gt1_t1: Erebus
+gy1_t1: Opux Luxury Yacht
+jb1_t1: Drifter Battleship
+jbg_debris1: Jove bg_debris1
+jbg_debris2: Jove bg_debris2
+jbg_debris3: Jove bg_debris3
+jbg_debris4: Jove bg_debris4
+jbg_debris5: Jove bg_debris5
+jbg1: Jove bg1
+jbg2: Jove bg2
+jbg3: Jove bg3
+jbg4: Jove bg4
+js1: Heaven
+js2: Unidentified Structure
+JS3: Jove Station 3
+mb1_t1: Typhoon
+mb1_t2b: Panther
+mb2_t1: Tempest
+mb2_t2: Vargur
+mb3_t1: Maelstrom
+mbc1_t1: Cyclone
+mbc1_t2a: Cyclone T2a
+mbc1_t2c: Claymore
+mbc2_t1: Hurricane
+mbc2_t2: Sleipnir
+mbc3_t1: Tornado
+mc1_t1: Stabber
+mc1_t2a: mc1_t2a
+mc1_t2b: Vagabond
+mc2_t1: Rupture
+mc2_t2a: Muninn
+mc2_t2c: Broadsword
+mc2_vii: Mimir
+mc3_t1: Bellicose
+mc3_t2a: Huginn
+mc3_t2c: Rapier
+mc4_t1: Scythe
+mc4_t2c: Scimitar
+mca1_t1: Hel
+mca2_t1: Nidhoggur
+mde1_t1: Thrasher
+mde1_t2c: Sabre
+mde2_t1: Talwar
+mde2_t2: Bifrost
+mde3_t3: Svipul
+mdh1_t1: Berserker I
+mdh1_t2: Berserker II
+mdl1_t1: Warrior I
+mdl1_t2: Warrior II
+mdm1_t1: Valkyrie I
+mdm1_t2: Valkyrie II
+mdn1_t1: Naglfar
+mf1_t1: Slasher
+mf1_t2a: Claw
+mf1_t2c: Stiletto
+mf2_t1: Probe
+mf2_t2a: Probe T2a
+mf2_t2b: Cheetah
+mf3_t1: Reaper
+mf4_t1: Rifter
+mf4_t2a: Wolf
+mf4_t2b: Jaguar
+mf4_t2c: Blade
+mf4_vii: Freki
+mf5_t1: Breacher
+mf5_t2a: Hound
+mf6_t1: Burst
+mf6_t2: Scalpel
+mf7_t1: Vigil
+mf7_t2c: Hyena
+mf8_t1: Firetail
+mfb1_t1: Tyrfing
+mfi1_t1: Einherji
+mfr1_t1: Fenrir
+mfr1_t2: Nomad
+mi1_t1: Hoarder
+mi2_t1: Mammoth
+mi2_t2a: Mammoth T2a
+mi2_t2b: Mastodon
+mi3_t1: Wreathe
+mi3_t2c: Prowler
+morb1_t1: Barghest
+morc1_t1: Orthrus
+morf1_t1: Garmur
+ms1: Minmatar Military Station
+ms1_t1: Minmatar Shuttle
+ms2: Minmatar Hub
+ms3: Minmatar Trade Post
+ms4: Minmatar Industrial Station
+ms5: Minmatar Mining Station
+ms6: Minmatar Research Station
+ms7: Minmatar Station
+msd1_t1: Bouncer I
+msd1_t2: Bouncer II
+mt1_t1: Ragnarok
+oreb1_t1: Primae
+oreba1_t1: Procurer
+oreba1_t2: Skiff
+oreba2_t1: Retriever
+oreba2_t2: Mackinaw
+oreba3_t1: Covetor
+oreba3_t2: Hulk
+orecs1_t1: Rorqual
+orecs2_t1: Bowhead
+oredh1_t1: Mining Drone I
+oredh1_t2: Mining Drone II
+oredm1_t1: Salvage Drone I
+oref1_t1: Venture
+oref1_t2b: Prospect
+oref1_t2c: Endurance
+orefr1_t1: Orca
+rdh1_t1: Rouge Drone Heavy 1
+rdh2_t1: Rouge Drone Heavy 2
+rdh3_t1: Rouge Drone Heavy 3
+rdl1_t1: Rouge Drone Light 1
+rdl2_t1: Rouge Drone Light 2
+rdl3_t1: Rouge Drone Light 3
+rdl4_t1: Rouge Drone Light 4
+rdl5_t1: Rouge Drone Light 5
+rdl6_t1: Rouge Drone Light 6
+rdm1_t1: Rouge Drone Medium 1
+rdm2_t1: Rouge Drone Medium 2
+rdm3_t1: Rouge Drone Medium 3
+rdm4_t1: Rouge Drone Medium 4
+rds1: Hive mother
+rds2: Hive mother 2
+rdss1: Hive Under Construction
+rdss2: Fortified Drone Structure II
+rf7: Sheared Rock Formation
+sb1_t1: Nightmare
+sb1_xiii: Nightmare XIII
+sc1_t1: Phantasm
+sc1_xiii: Fiend
+sca1_t1: Revenant
+sf1_t1: Succubus
+sf2_t1: Sansha Frigate
+sf2_xiii: Imp
+sf3_t1: Immolator
+sfb1_t1: Shadow
+sl_s1: Sleeper Structure 1
+slb1_t1: Sleeper Battleship 1
+slb2_t1: Sleeper Battleship 2
+slc1_t1: Sleeper Cruiser 1
+slc2_t1: Sleeper Cruiser 2
+slde1_t1: Sleeper Destroyer
+slf1_t1: Sleeper Frigate 1
+slf2_t1: Sleeper Frigate 2
+soctbc1_t1: Gnosis
+soctb1_t1: Praxis
+soctf1_t1: Apotheosis
+soctde1_t1: Sunesis
+soeb1_t1: Nestor
+soec1_t1: Stratios
+soef1_t1: Astero
+soes1: Sisters of EVE Logistics Station
+soes2: Sisters of EVE Industrial Station
+upg_t1: Pulsating Power Generator
+usd_t1: Magnetic Double-Capped Bubble
+usj_t1: Incursion Effect HQ
+ust_t1: Storage Silo
+vat_v1: vat_v1
+vat_v2: vat_v2
+vat_v3: vat_v3
+tgbc01_t1: Drekavac
+tgb01_t1: Leshak
+tgc01_t1: Vedmak
+tgc01_t2: Ikitursa
+tgc02_t1: Rodiva
+tgc02_t2: Zarmazd
+tgde01_t1: Kikimora
+tgde01_t2: Draugr
+tgdn01_t1: Zirnitra
+tgf01_t1: Damavik
+tgf01_t2: Nergal
+tgi1_t1: Leshak Happy Meal Toy 1
+tgi2_t1: Leshak Happy Meal Toy 2
+tgi3_t1: Leshak Happy Meal Toy 3
+uwb01_t1: Thunderchild
+uwc01_t1: Stormbringer
+uwf01_t1: Skybreaker
