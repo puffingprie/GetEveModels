@@ -175,7 +175,7 @@ def convert_all_gr2():
 read_file()
 make_associated_res_file()
 # download_all() #use download_all_threads() instead
-download_all_threads("ship_models_only")
-# download_all_threads("graphic_files_only")
+# download_all_threads("ship_models_only")
+download_all_threads("graphic_files_only")
 # download_all_threads()
 convert_all_gr2()
